@@ -1,0 +1,12 @@
+{
+    "name": "DisplayStatus",
+    "description": "A status display library with switchable outputs.",
+    "authors": {
+        "name": "August Seiple",
+        "email": "aseiple678@gmail.com",
+        "maintainer": true
+    },
+    "version": "0.1.0",
+    "license": "MIT-0",
+    "platforms": "*"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Coordinate",
+    "description": "A helper library for 2d points.",
+    "authors": {
+        "name": "August Seiple",
+        "email": "aseiple678@gmail.com",
+        "maintainer": true
+    },
+    "version": "0.1.0",
+    "license": "MIT-0",
+    "platforms": "*"
+}

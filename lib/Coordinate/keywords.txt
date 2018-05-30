@@ -1,0 +1,4 @@
+Coordinate	KEYWORD1
+getX	KEYWORD2
+getY	KEYWORD2
+distanceTo	KEYWORD2

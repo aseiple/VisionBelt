@@ -1,0 +1,5 @@
+BeltStatus	KEYWORD1
+SupportedDisplays	KEYWORD1
+DisplayStatus	KEYWORD1
+currentStatus	KEYWORD2
+setStatus	KEYWORD2
